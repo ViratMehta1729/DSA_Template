@@ -1,6 +1,6 @@
 # DP Templates
 
-This repository contains dynamic programming and related DSA practice snippets in C++.
+This repository contains dynamic programming, Graph and related DSA practice snippets in C++.
 
 ## Build and run
 
