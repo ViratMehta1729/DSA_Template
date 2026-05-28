@@ -1,0 +1,17 @@
+# Build outputs
+*.exe
+*.out
+*.obj
+*.o
+*.pdb
+*.ilk
+*.idb
+*.lib
+*.dll
+
+# VS Code local settings
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
